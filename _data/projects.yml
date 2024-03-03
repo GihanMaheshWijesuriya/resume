@@ -2,15 +2,16 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: SMARTYLink
+  role: Primary Developer
+  duration: Dec, 2020 &mdash; Aug, 2021
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: developed a service-providing website with multiple filter options and an AI chat module using Angular, Node, and MySQL.
+
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: CEB Kothmale
+  role: Primary Developer
+  duration: Mar, 2019 &mdash; Dec, 2020
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description:  Designed and developed a mobile app for analyzing the electricity usage of over 100 Back Office workers at Ceylon Electricity Board Kotmale using React Native, Node, Redux, and SQL.
