@@ -6,14 +6,14 @@
   summary: This is one of Sri Lanka's largest telecommunications service providers, and the country's largest mobile network operator with 17.1 million subscribers which amounts to 57% of the Sri Lankan mobile market.	<ul class="resume-item-list"><li>Worked on DTV679 message service and USSD service, managing 0.5 million lines of code across 9 modules. Impacting over 1.7 million Dialog TV users. Implemented crucial Bug Fixes and UI Refreshes on both frontend and backend using Angular, Java, XML, and Spring, integrating with PostgreSQL and Oracle databases.</li><li>Designed and implemented Flexi software application for back office workers to manage retail and enterprise sales using PHP, MySQL, and other JBoss server technologies that give over 1000 of sales solutions daily.</li><li>Revamp of the Dialog Package(CRM Rewrite) core Microservice for managing mobile and DTV packages, driving $2.3 billion of revenue every year using the latest technologies of Java, Spring, Oracle, AWS, and Platformer.</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Neo Minds Holdings
+  position: Software Engineer
+  duration:  Feb, 2019 &mdash; Oct, 2021
+  summary: Provides design and development services including prototyping to various industries along with mobile and web app development.  <ul class="resume-item-list"><li>Implemented enterprise applications (Tracker Client) with an AI module for a Retail Clothing shop using Angular, Node, Express, MySQL, and Python technologies. Further, it gained over 100,000 sales every year.</li><li>Led the development of the Bangladesh High Commission of Sri Lanka website, overseeing a team of three developers, a QA specialist, and a project manager.</li><li>Designed and implemented an enterprise application (Inhalo) to provide products for kids who have inhale issues using React, Redux, Node, Express, and MySQL.</li><li>Developed an Android app (Samanala Taxi) for traveling purposes using React Native, Node, Express, and MySQL That has already helped more than 1000 subscribers.</li><li>Completely automated the marketing platforms' user-experience testing process by integrating Nightwatch Selenium.</li></ul>
 
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Intervest Software Technologies
+  position: Software Engineer, Contract
+  duration:   Oct, 2019  &mdash; May, 2020
+  summary: Intervest is a software development venture with businesses in Europe and an in-source development center in Sri Lanka.  <ul class="resume-item-list"><li>Developed and optimized London Luxury Item selling software application (Lymited), serving 0.4 million users globally. Utilized React, Redux, Node, and Jira to implement crucial updates, enhancements, and bug fixes, ensuring seamless functionality and user satisfaction.</li></ul>
