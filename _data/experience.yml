@@ -1,9 +1,17 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Dialog Axiata PLC
+  position: Senior Software Engineer
+  duration: Oct, 2021 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Worked on DTV679 message service and USSD service, managing 0.5 million lines of code across 9
+  modules. Impacting over 1.7 million Dialog TV users. Implemented crucial Bug Fixes and UI Refreshes on
+  both front and back ends using Angular, Java, XML, and Spring, integrating with PostgreSQL and
+  Oracle databases.
+  </li><li>Designed and implemented Flexi software application for back office workers to manage retail and enterprise sales
+  using PHP, MySQL, and other JBoss server technologies that give over 1000 of sales solutions daily.
+  </li><li>Revamp of the Dialog Package(CRM Rewrite) core Microservice for managing mobile and DTV packages, driving $2.3
+  billion of revenue every year using the latest technologies of Java, Spring, Oracle, AWS, and Platformer.
+  </li></ul>
 
 # Director of Digital Stratgy
 - company: United Nations Human Rights Council
